@@ -1,2 +1,5 @@
-[Link to PDF](EE_395__Scientific_ML_Whole_Report-3.pdf)# NeuralSound
-# NeuralSound
+[Link to in depth report](InDepthReport.pdf)
+
+[Link to overview (2 pages)](SummaryReport.pdf)
+
+
